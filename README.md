@@ -57,4 +57,4 @@ dhgjjd
 hdiuwh
 `
 ## inserting urls
-.[suma].(https://www.markdownguide.org/cheat-sheet/)
+[suma](https://www.markdownguide.org/cheat-sheet/)
