@@ -26,10 +26,10 @@ __*cse*__
 >> jklmnopqrst
 >>> urstuvwxyz
 ## ordered List
-1.Cse
-2.Ece
-3.mech
-      1.Mech a
-      2.Mech b
-4.Civil
-5.EEE
+1. Cse
+2. Ece
+3. mech
+      1. Mech a
+      2. Mech b
+4. Civil
+5. EEE
