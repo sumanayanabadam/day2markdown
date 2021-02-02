@@ -62,5 +62,7 @@ hdiuwh
 [github](https://enterprise.github.com/login)
 
 [gmail](https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin)
-## image inserting
+## Image inserting
 ![image](https://github.com/sumanayanabadam/day2markdown/blob/master/Desktop/day2git/image.jpg.jpeg)
+## Inserting videos
+[![video](https://img.youtube.com/vi/nCNqPgXDYhY/0.jpg)](https://www.youtube.com/watch?v=nCNqPgXDYhY)
