@@ -33,3 +33,23 @@ __*cse*__
       2. Mech b
 4. Civil
 5. EEE
+## Unordered list
+-  cse
+-  ece
+-  mech
+      *  mech a
+      *  mech b
+-  civil
+      *  civil a
+      *  civil b
+-  eee
+## codeing
+
+```
+def fun():
+      print("hello apssdc")
+      ````
+      ```
+      fun()
+      ```
+      
